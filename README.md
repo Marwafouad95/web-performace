@@ -16,7 +16,7 @@ https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fmarwaf
 
 the demo url (https://marwafouad95.github.io/web-performace/)
 
-Profile, optimize, measure... and then lather, rinse, and repeat. Good luck!
+
 
 #### Part 2: Optimize Frames per Second in pizza.html
 
