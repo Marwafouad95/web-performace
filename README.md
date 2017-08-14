@@ -10,15 +10,7 @@ To get started, check out the repository and inspect the code.
 
 here is the link :
 
-https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fmarwafouad95.github.io%2Fweb-performace%2F&tab=mobile
-
-  ```
-
-the demo url (https://marwafouad95.github.io/web-performace/)
-
-
-
-#### Part 2: Optimize Frames per Second in pizza.html
+# Part 2: Optimize Frames per Second in pizza.html
 
 1- replace querySelectorAll with getElementsByClassName or getElementsByIdNameTo get better performance
 
