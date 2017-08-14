@@ -451,6 +451,7 @@ var resizePizzas = function(size) {
   function changePizzaSizes(size) {
       
       //replace querySelectorAll with getElementsByClassName To better performance
+     // move dx and newwidth out for loop
       
       var container = document.getElementsByClassName("randomPizzaContainer");
       var dx = determineDx(container[0], size);
