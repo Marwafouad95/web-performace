@@ -12,10 +12,11 @@ here is the link : [https://developers.google.com/speed/pagespeed/insights/?url=
 
 # Part 2: Optimize Frames per Second in pizza.html
 
-1- replace querySelectorAll with getElementsByClassName or getElementsByIdNameTo get better performance
+- replace querySelectorAll with getElementsByClassName or getElementsByIdNameTo get better performance
 
-2- modified changePizzaSizes and updatePositions functions
-3- moved dx and newwidth out for loop to aviod recreate them
+- modified changePizzaSizes and updatePositions functions
+
+- moved dx and newwidth out for loop to aviod recreate them
 
 #### Part 3: Optimize style.css
 1- move to index.html in <style> tag 
