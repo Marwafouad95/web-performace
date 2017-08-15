@@ -13,6 +13,10 @@ here is the link : [https://developers.google.com/speed/pagespeed/insights/?url=
 - 96 / 100 desktop
 - 95 / 100 mobile
 
+- modified images which google page speed selected
+
+- modified perfmatters.js 
+
 # Part 2: Optimize Frames per Second in pizza.html
 
 - replace querySelectorAll with getElementsByClassName or getElementsByIdNameTo get better performance
@@ -23,6 +27,15 @@ here is the link : [https://developers.google.com/speed/pagespeed/insights/?url=
 
 #### Part 3: Optimize style.css
 1- move to index.html in <style> tag 
+
+#### Part 4: Optimize index.html
+- put "media" attribute to css/print.css link 
+
+- put "async" attribute to scripts tags
+
+- make style.css inline in <style> tag 
+
+- delate web fonts 
 
 
 
